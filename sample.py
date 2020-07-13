@@ -1,0 +1,2 @@
+name="sampath"
+print(name)
